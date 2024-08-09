@@ -1,5 +1,5 @@
 ## Hi there 👋
-Help you find images
+Help you find images.
 download and run
-findmage.exe
+findmage.exe.
 done
